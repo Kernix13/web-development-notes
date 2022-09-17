@@ -133,3 +133,26 @@ Testing is a big part of the front end development process and there are framewo
 
 - [What does a front-end developer do](https://www.codecademy.com/resources/blog/what-does-a-front-end-developer-do/)
 - [Key Differences Between Junior, Midlevel, Senior, and Lead Developers](https://distantjob.com/blog/junior-front-end-developer-skills/) - the top 6 technical skills to look for: 1) html, css, js, 2) responsive design, 3) js frameworks, 4) testing and debugging, 5) web performance, 6) version control
+
+## Project List
+
+- to-do app w\ CRUD, 2. calculator, 3. weather app, 4. quiz game, 5. calculator, 6.
+- [FCC Build 15 JavaScript Projects - Vanilla JavaScript Course](https://youtu.be/3PHXvlpOkf4)
+- color flipper, 2. counter, 3. reviews, 4. navbar toggle, 5. sidebar menu toggle, 6. modal, 7. accordian FAQs, 8. menu list, 9. video hero, 10. scroll activated topbar, 11. tabs, 12. countdown timer, 13. lorem ipsum, 14. grocery to-do list, 15.
+- [5 PERFECT web development projects for beginners](https://realtoughcandy.io/p/portfolio-surgery) |
+- to do list: mine: https://codepen.io/jim-kernicky/pen/YzwVRpY | https://codepen.io/Cikcakk/pen/OJXRder |jQuery https://codepen.io/du5rte/pen/XJPyZy | local storage https://codepen.io/tmrDevelops/pen/GoyKmB | maybe https://codepen.io/barkins/pen/aEriL | https://codepen.io/emilcarlsson/pen/RZOWgz |
+- Landing Page – recreate one, add a sign in – search codepen
+- calculator - https://codepen.io/anthonykoch/pen/xVQOwb | https://codepen.io/lalwanivikas/pen/eZxjqo | https://codepen.io/zoite/pen/zxgaqw | https://codepen.io/search/pens?q=calculator+javascript |
+- personal portfolio site - https://www.juliacodes.com/ |
+- https://www.freecodecamp.org/news/coding-projects-to-include-in-your-frontend-portfolio/
+- https://www.codecademy.com/resources/blog/projects-for-a-front-end-developer-portfolio/
+- some good info – 6b. Responsive virtual keyboard – more here: https://careerkarma.com/blog/javascript-projects/ -
+- simple quiz game -
+- virtual keyboard -
+- timeline clone -
+- something with maps
+- weather app – great design, no Fx: https://codepen.io/Call_in/pen/pMYGbZ PUG| WOW: https://codepen.io/birjolaxew/pen/ANyEYR?editors=1010 | YES: https://codepen.io/tiffanyadu/pen/qryXBo?editors=1010 | https://codepen.io/tns301/pen/yXLWjQ?editors=0010 | design: https://codepen.io/Aleeweb/pen/qjYRBN |
+- https://dev.to/slawomirkolodziej/5-javascript-projects-you-should-build-as-junior-frontend-developer-4gm3 |
+- CRUD web application
+- An API-connected website
+- yelpcamp – check github for code – tough one – full stack app – node.js, express.js, bootstrap, MongoDB
