@@ -21,4 +21,25 @@ Potential job interview Q's:
 - Your thought process.
 - Why should I hire you?
 
-- JavaScript: interview questions -> memoization, hoisting, es6 classes, closures, modules, service worker, indexedDB, web storage, cookie, why need , cookies, cookie options, deleting a cookie, coookie vs storage, accessing , storage, storage event , web worker, what is a promise, why use promises, 3 states of promise, cb Fx, Server-sent events, promise rules, cb in cb, promise chaining, promise.all, promise race method, strict mode, double exclamation, delete operator, typeof operator, undefined, null, null vs undefined, eval, window vs document, accessing history, caps lock on/off, isNaN, isFinite purpose, event bubbling, event capturing, js form submit, op system info, native, host user obj’s, tools to debug in js, promises over cb’s, attribute vs property, Same-origin policy, Void 0 purpose, JS: compiled or interpreted, what are events, why use preventDefault, why use stopPropogation, steps to return false, recursion, call stack (LIFO), primitive types, value types, reference types, Fx, block, lexical scope, expression vs statement, iife, modules, namespaces, message queue, event loop, setTimeout, setInterval, requestAnimationFrame, js engines, bitwise operators, type arrays, array buffers, DOM & layout trees, Factories & classes, this, call, apply, bind, new, constructor, instanceof, Instances, prototype inheritance, prototype chain, Object.create, Object.assign, map, reduce, filter, pure Fx’s, side effects, state mutation, event propogation, closures, high order Fx’s, Collections & generators, promises, .then, .catch, async/await, try/catch, data structures, expensive operation, big O notation, algorithms, inheritance, polymorphism, code reuse, design patterns, partial applications, currying, compose, pipe, clean code
+## JavaScript: interview questions
+
+- .catch, .then, 3 states of promise, accessing, accessing history, algorithms, apply, array buffers, async/await, attribute vs property
+- big o notation, bind, bitwise operators, block
+- call, call stack (lifo), caps lock on/off, cb fx, cb in cb, clean code, closures, code reuse, collections & generators, compose, constructor, cookie, cookie options, cookies, coookie vs storage, currying
+- data structures, delete operator, deleting a cookie, design patterns, dom & layout trees, double exclamation
+- es6 classes, eval, event bubbling, event capturing, event loop, event propogation, expensive operation, expression vs statement
+- factories & classes, filter, fx, high order fx's
+- hoisting, host user obj's,
+- iife, indexeddb, inheritance, instanceof, instances, isfinite purpose, isnan
+- js engines, js form submit, js: compiled or interpreted,
+- lexical scope
+- map, memoization, message queue, modules,
+- namespaces, native, new, null, null vs undefined
+- object.assign, object.create, op system info
+- partial applications, pipe, polymorphism, primitive types, promise chaining, promise race method, promise rules, promise.all, promises, promises over cb's, prototype chain, prototype inheritance, pure fx's
+- recursion, reduce, reference types, requestanimationframe
+- same-origin policy, server-sent events, service worker, setinterval, settimeout, side effects, state mutation, steps to return false, storage, storage event, strict mode
+- this, tools to debug in js, try/catch, type arrays, typeof operator
+- undefined
+- value types, void 0 purpose
+- web storage, web worker

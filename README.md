@@ -26,7 +26,7 @@ documents/WebDev
 
 - docx: Figma, Design Course, Logos-By-Nick, Open Source, Getting A Job, JavaScript keywords, Child Theme Build, ... go to 7/22/2020
 
-> Still need to check all the sub-folders in documents.WebDev
+> Still need to check all the sub-folders in documents/WebDev
 
 ## Learning
 
@@ -50,18 +50,23 @@ I'm going to look into the following courses they offer:
 1. Quality Assurance
 1. Information Security
 
-I also will be trying the problems in **[Coding Interview Prep]**(https://www.freecodecamp.org/learn/coding-interview-prep/). The final section is called Project Euler with 480 JavaScript problems.
+I also will be trying the problems in [Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/). The final section is called Project Euler with 480 JavaScript problems.
+
+freeCodeCamp certifications:
+
+- [Responsive Web Design](https://www.freecodecamp.org/certification/fccb4a9d0f6-135f-4a94-97f5-795068269ca7/responsive-web-design)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fccb4a9d0f6-135f-4a94-97f5-795068269ca7/javascript-algorithms-and-data-structures)
 
 ### Udemy
 
 - I've taken courses from Brad Traversy, Brad Schiff and am currently taking a course by Colt Steele. They all have their strengths and I like their courses.
 
-Udemy Certs:
+Udemy certifications:
 
-- https://www.udemy.com/certificate/UC-446c63fb-0bc4-4a53-953d-e03271470ce2/
-- https://www.udemy.com/certificate/UC-47065293-e7ec-4e9b-ba5a-b51b6803f1f1/
-- https://www.udemy.com/certificate/UC-aeae04f7-40dc-4034-8710-716534007201/
-- https://www.udemy.com/certificate/UC-e935b4b7-d8b4-4ecc-ae47-8406aadc6c59/
+- [WordPress Theme and Development Course](https://www.udemy.com/certificate/UC-446c63fb-0bc4-4a53-953d-e03271470ce2/)
+- [Web Design for Beginners](https://www.udemy.com/certificate/UC-47065293-e7ec-4e9b-ba5a-b51b6803f1f1/)
+- [Mastering the Modern Developer Workflow](https://www.udemy.com/certificate/UC-aeae04f7-40dc-4034-8710-716534007201/)
+- [MySQL for Beginners](https://www.udemy.com/certificate/UC-e935b4b7-d8b4-4ecc-ae47-8406aadc6c59/)
 
 ### Kevin Powell
 
