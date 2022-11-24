@@ -480,3 +480,94 @@ wp_enqueue_style( 'main-css', get_stylesheet_directory_uri() . '/style.css' );
 - [How to Include Styles in WordPress Child Themes](https://digwp.com/2016/01/include-styles-child-theme/) by Jeff Starr
 - Download the Example Child Theme: [WordPress Example Child Theme](https://wp-mix.com/wordpress-example-child-theme/)
 - [Kinsta: How to Create a Child Theme in WordPress](https://kinsta.com/blog/wordpress-child-theme/)
+
+
+### webdev/localhost dev.rtf
+
+Localhost Dev Important Notes
+sublime: https://www.sublimetext.com/
+xampp 32 bit d\l: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.3.2/
+xampp port 80 in use: cmd > services.msc
+https://stackoverflow.com/questions/20558410/xampp-port-80-in-use-by-unable-to-open-process-with-pid-4-12
+https://stackoverflow.com/questions/23317372/xampp-port-80-in-use-by-unable-to-open-process-with-pid-4/24835956
+how to setup xampp: 
+https://www.wpbeginner.com/wp-tutorials/how-to-create-a-local-wordpress-site-using-xampp/
+https://premium.wpmudev.org/blog/setting-up-xampp/ - his last steps are to add code to config file to make it multisite??? but I followed almost everything he did inluding the the database collation of utf8mb4_unicode_ui - don't know what it is but it worked so this is the best article
+https://www.namecheap.com/support/knowledgebase/article.aspx/9411/2187/how-to-set-up-and-manage-wordpress-multisite-wpmu
+WordPress Multisite (or Wordpress MultiUser/WPMU) is a WordPress feature that allows you to run multiple WordPress sites from within one WordPress installation. All these installations make up a so-called 'network'. All the sites in this network share one database, however,  they have separate tables within this database and different directories for media uploads. Also, these sites share the same plugins and themes. The Network Admin is the only one that can manage plugins and themes for all the sites from one single Admin Dashboard
+folder: learnwp
+database: wordpdev
+user: root
+password: " "
+http://localhost/dashboard/
+http://localhost/phpmyadmin/
+http://localhost/learnwp/wp-admin/setup-config.php - error
+http://localhost/learnwp/wp-admin/install.php 
+to log into dashboard:
+http://localhost/learnwp/wp-admin/
+site title: Learn Development
+admin user: kernix
+admin pw: Kernix_13
+email: jim@fairmountpetservice.com
+website view - not showing admin bar to go back to dashboard - probably because my simple theme is active
+http://localhost/learnwp/
+wp documentation: https://codex.wordpress.org/
+https://wordpress.org/support/forum/localhost-installs/
+
+htdocs\learnwp
+https://wordpress.org/support/article/before-you-install/
+https://wordpress.org/support/article/how-to-install-wordpress/
+- settings > style configurator - changes the colors - need to customize the one I lile - look into
+https://www.thewindowsclub.com/best-notepad-tips-tricks-use
+https://npp-user-manual.org/docs/preferences/
+https://www.elegantthemes.com/blog/resources/best-code-editors
+https://www.sublimetext.com/
+/classes/class-twentynineteen-svg-icons.php  
+/inc/helper-functions.php 
+Notes on index.php: https://developer.wordpress.org/reference/functions/
+https://developer.wordpress.org/themes/theme-security/using-nonces/
+```php
+<head <?php language_attributes(); ?>> 
+dynamic way to set the language of the code i think
+<title><?php bloginfo('name'); ?></title>
+bloginfo function has a lot of parameters 
+<?php wp_head(); ?>
+```
+adds other things into the head like from plugins (CTRL+u to open view source)
+
+### webdev/underscores.docx
+
+downloaded a new one with support fvor sass and woocommerce10-22-20 – fairmountpetservice.zip
+
+https://underscores.me/ 
+
+https://github.com/Automattic/_s 
+https://github.com/andrewspittle/_s – check out image.php 
+https://github.com/automattic/_s – this was linked from their site so most recent?
+
+the notes on this page are huge
+
+https://wordpress.stackexchange.com/questions/307781/should-i-update-my-s-theme
+
+https://www.reddit.com/r/Wordpress/comments/6jnkla/building_a_website_using_underscores_starter/ 
+
+https://www.reddit.com/r/Wordpress/comments/7s7959/need_help_modifying_underscores_starter_theme/
+
+https://www.reddit.com/r/Wordpress/comments/4vmoxj/underscores_starter_theme_with_bootstrap/
+
+https://www.reddit.com/r/Wordpress/comments/em9sco/client_not_understanding_starter_themes/
+
+https://www.reddit.com/r/Wordpress/comments/hhfeba/most_efficient_way_to_add_php_files_and_folder/
+
+https://www.reddit.com/r/Wordpress/comments/j6ld91/underscores_theme/ 
+
+https://www.reddit.com/r/Wordpress/comments/f5t2nk/a_question_about_underscores_theme/ 
+
+https://www.reddit.com/r/Wordpress/comments/bd53hx/i_use_underscores_theme_at_work_for_all_websites/ 
+
+https://www.reddit.com/r/Wordpress/comments/66p91d/need_help_with_woocommerce_and_my_underscores/ 
+
+https://www.reddit.com/r/Wordpress/comments/930x6i/question_about_underscore_theme_header_on/
+
+https://www.reddit.com/r/Wordpress/comments/jdvqiy/for_a_wordpress_developer_job_would_they/ 
+
